@@ -1,0 +1,4 @@
+do_not_share_these_yet/*
+.ipynb_checkpoints/*
+*/.ipynb_checkpoints/*
+assignments/.ipynb_checkpoints/*
